@@ -1,2 +1,2 @@
 # snippets_java
-Snippets to use with python
+Snippets to use with java
